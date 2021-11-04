@@ -2,7 +2,7 @@
 
 QA Analyst at Accenture
 
-Computer Science Bachelor Student at Universidade Federal de Pernambuco
+Information Systems Bachelor Student at Universidade Federal de Pernambuco
 
 <a href="https://github.com/pemsm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pemsm&theme=dracula&show_icons=true&count_private=true" />
