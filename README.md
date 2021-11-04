@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Paulo Marques
 
-Software Engineer at Parth
+QA Analyst at Accenture
 
 Computer Science Bachelor Student at Universidade Federal de Pernambuco
 
