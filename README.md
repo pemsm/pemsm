@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Paulo Marques
 
 Software Engineer at Parth
 
