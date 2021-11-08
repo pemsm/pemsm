@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Paulo Marques
+# Hi there 👋, I'm Paulo Marques
 
 QA Analyst at Accenture
 
